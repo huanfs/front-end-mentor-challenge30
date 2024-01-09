@@ -1,0 +1,10 @@
+.user {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+.user img {
+  max-width: 30px;
+}
+
+/*# sourceMappingURL=user.css.map */
