@@ -1,6 +1,5 @@
 import { useRef } from "react";
 
-import './App.scss'
 /*images*/
 import banner from "./assets/images/illustration-article.svg";
 /*components*/
